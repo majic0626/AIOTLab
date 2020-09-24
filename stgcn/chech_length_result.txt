@@ -1,0 +1,21 @@
+total video number:  56874
+average length:  84.51735415128178
+max length:  300
+min length:  26
+under threshold32 video number: 15
+del /data/chou/Desktop/nturgb+d_skeletons//S017C002P016R002A031.skeleton
+del /data/chou/Desktop/nturgb+d_skeletons//S013C001P028R001A040.skeleton
+del /data/chou/Desktop/nturgb+d_skeletons//S014C001P027R002A040.skeleton
+del /data/chou/Desktop/nturgb+d_skeletons//S016C002P019R002A040.skeleton
+del /data/chou/Desktop/nturgb+d_skeletons//S014C002P027R002A040.skeleton
+del /data/chou/Desktop/nturgb+d_skeletons//S013C002P017R002A054.skeleton
+del /data/chou/Desktop/nturgb+d_skeletons//S016C001P019R002A040.skeleton
+del /data/chou/Desktop/nturgb+d_skeletons//S015C002P008R002A040.skeleton
+del /data/chou/Desktop/nturgb+d_skeletons//S013C001P015R001A054.skeleton
+del /data/chou/Desktop/nturgb+d_skeletons//S013C002P028R001A040.skeleton
+del /data/chou/Desktop/nturgb+d_skeletons//S013C001P017R002A054.skeleton
+del /data/chou/Desktop/nturgb+d_skeletons//S015C001P008R002A040.skeleton
+del /data/chou/Desktop/nturgb+d_skeletons//S016C003P019R002A040.skeleton
+del /data/chou/Desktop/nturgb+d_skeletons//S017C001P016R002A031.skeleton
+del /data/chou/Desktop/nturgb+d_skeletons//S013C002P015R001A054.skeleton
+56874 ---> 56859
